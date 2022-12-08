@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kunal18
-- 🌱 I’m currently pursuing Master of Science in Data Science
+- 🌱 I’m currently pursuing Master of Science in Data Science @Northeastern University, Boston
 - 📫 How to reach me https://www.linkedin.com/in/kunal-indore/
 
 <!---
